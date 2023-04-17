@@ -1,0 +1,10 @@
+
+tensorflow==2.5.0
+Keras==2.4.3
+numpy==1.19.2
+flask==1.1.2
+streamlit
+-e .
+
+#flask==1.1.2
+
